@@ -34,7 +34,7 @@ Dont forget to use VPN or be inside Feup's network.
 
 ### Admin: 
 
-- email : luisrelvas@netcabo.pt
+- email : eduardo@gmail.com
 - password: luis 2003
 
 ### User: 
